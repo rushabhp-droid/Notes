@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "91ca367a33e32595",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a796133f1744689",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd24cfa1bbc0fec5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Module 1/4. Computing with Floating point numberss.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Computing with Floating point numberss"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "737ad5686553a326",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d915fb1d6475740",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74969c5c4b3957c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "12cc7ccbc4c20320",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5d817d4b1d5910a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "52458a566f105aff",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdd39609fdb50571",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aefb0648a1e0e576",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java/Module 1/1. Built-in Data Types.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1. Built-in Data Types"
+            }
+          },
+          {
+            "id": "f585cbd4a0daef62",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java/Module 1/1. Built-in Data Types.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1. Built-in Data Types"
+            }
+          },
+          {
+            "id": "a7e7175476d827a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "14a1d50f3d1b0138",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java/Module 1/1. Built-in Data Types.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1. Built-in Data Types"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "cd24cfa1bbc0fec5",
+  "lastOpenFiles": [
+    "Java/Module 1/3. Computing with Integers.md",
+    "Java/Module 1/7. Type Checking.md",
+    "Java/Module 1/6. Comparison Operators.md",
+    "Java/Module 1/5. Computing with true and false.md",
+    "Java/Module 1/4. Computing with Floating point numberss.md",
+    "Java/Module 1/1. Built-in Data Types.md",
+    "Java/Module 1/Assets/type-error.png",
+    "Java/Module 1/Assets/comparision-operators.png",
+    "Java/Module 1/2. Input and Output.md",
+    "Java/Module 1/Dictionary/Excerpt.md",
+    "Java/Module 1/Dictionary",
+    "Java/Module 1/Assets/computing-with-floating-point-numbers.png",
+    "Java/Module 1",
+    "Java/Module 1/Assets/computing-with-integers.png",
+    "Java/Module 1/Assets/basic-def.png",
+    "Java/Module 1/Assets",
+    "Java/Module 1/Assets/built-in-data-types.png",
+    "Java",
+    "Welcome.md"
+  ]
+}
